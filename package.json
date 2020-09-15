@@ -1,0 +1,22 @@
+{
+  "name": "azure-app",
+  "version": "1.0.0",
+  "description": "my sample azure app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/metherton/azure-app.git"
+  },
+  "author": "Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/metherton/azure-app/issues"
+  },
+  "homepage": "https://github.com/metherton/azure-app#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
